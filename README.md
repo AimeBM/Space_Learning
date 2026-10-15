@@ -1,2 +1,4 @@
-# Space_Learning
-Une Application Excel VBA (Space Learning)  qui permet la mémorisation des notions à long terme, en appliquant convenablement avec rigueur cette méthode, l'on aura à mémoriser plus 90% des notions. On s'enregistre et différentes notions/cours à mémoriser ensuite l'application vous propose un emploi du temps pour une révision.
+# Space_Learning : Application Excel VBA de mémorisation à long terme
+**Space Learning** est une application développée sous Excel VBA, conçue pour faciliter la mémorisation durable des connaissances grâce à la répétition espacée (*Spaced Repetition*), une méthode inspirée des travaux sur la courbe de l’oubli d’Hermann Ebbinghaus (*Forgetting Curve*).
+Après s’être inscrit, l’utilisateur peut enregistrer les différentes notions, définitions et cours qu’il souhaite mémoriser. A partir de ces informations, l’application génère automatiquement un **planning personnalisé de révisions**, en programmant les rappels à des intervalles adaptés afin de renforcer progressivement la mémorisation et de limiter l’oubli.
+En appliquant cette méthode avec régularité et rigueur, l’utilisateur optimise ses séances d’apprentissage, consolide ses acquis et améliore sa capacité à retenir les connaissances sur le long terme.
